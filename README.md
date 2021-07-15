@@ -6,7 +6,7 @@
 </p>
 <p align="center">
   <a href="#">
-    <img align="center" width="300" src="luciano.png" />
+    <img align="center" width="900" src="luciano.png" />
   </a>
   <a href="#">
     <img align="center" width="450" src="dev.gif" />
