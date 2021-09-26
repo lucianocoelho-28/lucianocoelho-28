@@ -1,20 +1,22 @@
-<p align="center">
+<div align="center">
   <a href="#abstract">Abstract</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#nerd_face-skills">Skills</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#iphone-contact">Contact</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#iphone-contact">Total Profile Visits</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-</p>
-<p align="center">
+</div>
+</br>
+</br>
+
+<div align="center">
   <a href="#">
     <img align="center" width="900" src="luciano.png" />
   </a>
   <a href="#">
     <img align="center" width="450" src="dev.gif" />
   </a>
-</p>
+</div>
 </br>
 </br>
-
 
 <div align="center">
   <a href="https://github.com/lucianocoelho-28">
@@ -72,11 +74,8 @@
   </a>
 </div>
 
-<p align="center"> 
  
  ## :detective: Total Profile Visits  <br>
- <p align="center"> 
+ <div align="center">
    <img alingn="center" src="https://profile-counter.glitch.me/lucianocoelho-28/count.svg" />
- </p>
-
-</p>
+ </div>
