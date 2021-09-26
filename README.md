@@ -14,33 +14,26 @@
 </p>
 </br>
 </br>
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianocoelho-28&layout=compact"
-    />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api?username=lucianocoelho-28&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues"
-    />
-  </a>
-</p>
+
+
+<div align="center">
+  <a href="https://github.com/lucianocoelho-28">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucianocoelho-28&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianocoelho-28&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 ## Abstract
 
-- 💻  | Analista de Sistemas na **SulAmérica**.
+- 💻  | Analista de Sistemas na **CWI Software**.
 - 👨‍💻   | Estudante de Pós-Graduação em Gestão de Tenologia da Informação.
 - :rocket:  | Interesse: Java, HTML5, CSS3, JavaScript, NodeJS, React, C#, Python, MySQL, Git e GitHub.
 - :video_game:  | Gosta de jogar vídeo game? Eu também sou formando em Jogos Digitais.
 
 
 ## :nerd_face: Skills 
-<p align="center">
+<div align="center" style="display: inline_block"><br>
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -62,28 +55,24 @@
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-    
-
-</p>
+  </div>
 
 ## :iphone: Contact 
-
-<p align="center">
-    <a href="https://github.com/lucianocoelho-28">
-        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/lucianocoelho-28">
-    </a>
+<div align="center">
+  <a href="https://github.com/lucianocoelho-28">
+    <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/lucianocoelho-28">
+  </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="mailto:coelho.luciano@icloud.com">
-        <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:coelho.luciano@icloud.com">
-    </a>
+  <a href="mailto:coelho.luciano@icloud.com">
+    <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:coelho.luciano@icloud.com">
+  </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/lucianocoelho28">
-        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/lucianocoelho28/">
-    </a>
-</p>
+  <a href="https://www.linkedin.com/in/lucianocoelho28">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/lucianocoelho28/">
+  </a>
+</div>
 
 <p align="center"> 
-
  
  ## :detective: Total Profile Visits  <br>
  <p align="center"> 
