@@ -12,7 +12,7 @@
     <img align="center" width="900" src="luciano.png" />
   </a>
   <a href="#">
-    <img align="center" width="450" src="dev.gif" />
+    <img align="center" width="450" src="https://raw.githubusercontent.com/gist/lucianocoelho-28/01cd53f3067ae5136d4449b01edb7cac/raw/472b4bdf55f440537ea15a3206630607ee6d8088/githubcard.svg" />
   </a>
 </div>
 </br>
