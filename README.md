@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="#">
-    <img align="center" width="450" src="https://raw.githubusercontent.com/gist/lucianocoelho-28/01cd53f3067ae5136d4449b01edb7cac/raw/472b4bdf55f440537ea15a3206630607ee6d8088/githubcard.svg" />
+    <img align="center" width="450" src="https://github.com/lucianocoelho-28/lucianocoelho-28/blob/main/luciano-coelho.png?raw=true"/>
   </a>
 </div>
 </br>
@@ -20,7 +20,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianocoelho-28&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30"></h2>
 
 ## Abstract
 
