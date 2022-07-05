@@ -2,7 +2,7 @@
   <a href="#abstract">Abstract</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#nerd_face-skills">Skills</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#iphone-contact">Contact</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#iphone-contact">Total Profile Visits</a>&nbsp;&nbsp;&nbsp;
+  <a href="#detective-total">Total Profile Visits</a>
 </div>
 </br>
 
@@ -93,8 +93,8 @@
   </a>
 </div>
 
- 
- ## :detective: Total Profile Visits  <br>
+ ## :detective: Total
+
  <div align="center">
    <img alingn="center" src="https://profile-counter.glitch.me/lucianocoelho-28/count.svg" />
  </div>
