@@ -14,6 +14,14 @@
 </br>
 </br>
 
+## Perfil
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&color=8833D7&width=600&height=80&lines=Bem+vinda(o)+ao+meu+Perfil!+%F0%9F%98%89;Sou+estudante+de+Front+End;Analista+de+Sistemas+na+CWI;Bacharel+em+Sistemas+de+Informa%C3%A7%C3%A3o;T%C3%A9cnico+em+Jogos+Digitais)](https://git.io/typing-svg)
+
+</div>
+
 <div align="center">
   <a href="https://github.com/lucianocoelho-28">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucianocoelho-28&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
