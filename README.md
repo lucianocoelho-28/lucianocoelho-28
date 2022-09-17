@@ -33,8 +33,13 @@
 ## Abstract
 
 - 💻  | Analista de Sistemas na **CWI Software**.
-- 👨‍💻   | Estudante de Pós-Graduação em Gestão de Tenologia da Informação.
-- :video_game:  | Gosta de jogar vídeo game? Eu também sou formando em Jogos Digitais.
+- :man_student:  | Bacharel em Sistemas de Informação.
+- :video_game:  | Tecnólogo em Desenvolvimento de Jogos Digitais.
+- 👨‍💻  | Estudante de Pós-Graduação em Gestão de Tenologia da Informação.
+- :books:	 | Estudando para me tornar Desenvolvedor Full Stack (Frontend e Backend)
+- :tv: | Apaixonado por Tecnologia, Desenvolvimento, Aprendizado Contínuo e Criatividade.
+- ❤️   | Quando não estou programando, você pode me encontrar estudando, lendo, e passando um tempo em família.
+
 
 
 ## :nerd_face: Skills 
