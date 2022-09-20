@@ -18,7 +18,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&color=8833D7&width=600&height=80&lines=Bem+vinda(o)+ao+meu+Perfil!+%F0%9F%98%89;Sou+estudante+de+Front+End;Analista+de+Sistemas+na+CWI;Bacharel+em+Sistemas+de+Informa%C3%A7%C3%A3o;T%C3%A9cnico+em+Jogos+Digitais)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=28&color=8833D7&width=600&height=80&lines=Bem+vinda(o)+ao+meu+Perfil!+%F0%9F%98%89;Sou+apaixonado+por+tecnologia;Estudando+para+se+tornar+Full+Stack;Analista+de+Sistemas+na+CWI;Bacharel+em+Sistemas+de+Informa%C3%A7%C3%A3o;Tecnólogo+em+Desenv+Jogos+Digitais)](https://git.io/typing-svg)
 
 </div>
 
