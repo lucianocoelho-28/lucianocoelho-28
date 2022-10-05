@@ -23,12 +23,11 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/lucianocoelho-28">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucianocoelho-28&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianocoelho-28&layout=compact&langs_count=7&theme=dark"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucianocoelho-28&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianocoelho-28&layout=compact&langs_count=16&theme=cobalt" />
 </div>
 
-## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30"></h2>
+## Hi there! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30">
 
 ## Abstract
 
@@ -111,3 +110,9 @@
  <div align="center">
    <img alingn="center" src="https://profile-counter.glitch.me/lucianocoelho-28/count.svg" />
  </div>
+ 
+ ## Commit Snake
+
+![Snake animation](https://github.com/AnaProgramando/AnaProgramando/blob/output/github-contribution-grid-snake.svg)
+
+<br>
