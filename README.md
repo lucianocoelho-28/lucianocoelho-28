@@ -115,3 +115,6 @@
    <img alingn="center" src="https://profile-counter.glitch.me/lucianocoelho-28/count.svg" />
  </div>
  
+## 🏆 GitHub Profile Trophy
+
+ [![trophy](https://github-profile-trophy.vercel.app/?username=lucianocoelho-28&theme=onedark)](https://github.com/lucianocoelho-28/github-profile-trophy)
