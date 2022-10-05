@@ -115,8 +115,3 @@
    <img alingn="center" src="https://profile-counter.glitch.me/lucianocoelho-28/count.svg" />
  </div>
  
- ## Commit Snake
-
-![Snake animation](https://github.com/AnaProgramando/AnaProgramando/blob/output/github-contribution-grid-snake.svg)
-
-<br>
