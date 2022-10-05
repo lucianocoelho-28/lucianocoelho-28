@@ -117,4 +117,4 @@
  
 ## 🏆 GitHub Profile Trophy
 
- [![trophy](https://github-profile-trophy.vercel.app/?username=lucianocoelho-28&theme=onedark)](https://github.com/lucianocoelho-28/github-profile-trophy)
+ [![trophy](https://github-profile-trophy.vercel.app/?username=lucianocoelho-28&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
