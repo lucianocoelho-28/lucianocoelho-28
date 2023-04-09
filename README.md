@@ -32,9 +32,10 @@
 ## Abstract
 
 - 💻  | Analista de Sistemas na **CWI Software**.
-- :man_student:  | Bacharel em Sistemas de Informação.
+- 👨‍💻  | Estudante de MBA em Digital Manager &Metaverso.
+- 👨‍💻  | Pós-Graduação em Gestão de Tenologia da Informação.
 - :video_game:  | Tecnólogo em Desenvolvimento de Jogos Digitais.
-- 👨‍💻  | Estudante de Pós-Graduação em Gestão de Tenologia da Informação.
+- :man_student:  | Bacharel em Sistemas de Informação.
 - :books:	 | Estudando para me tornar Desenvolvedor Full Stack (Frontend e Backend)
 - :tv: | Apaixonado por Tecnologia, Desenvolvimento, Aprendizado Contínuo e Criatividade.
 - ❤️   | Quando não estou programando, você pode me encontrar estudando, lendo, e passando um tempo em família.
