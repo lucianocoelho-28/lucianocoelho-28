@@ -32,7 +32,7 @@
 ## Abstract
 
 - 💻  | Analista de Sistemas na **CWI Software**.
-- 👨‍💻  | Estudante de MBA em Digital Manager & Metaverso.
+- 👨‍💻  | MBA em Digital Manager & Metaverso.
 - 👨‍💻  | Pós-Graduação em Gestão de Tenologia da Informação.
 - :video_game:  | Tecnólogo em Desenvolvimento de Jogos Digitais.
 - :man_student:  | Bacharel em Sistemas de Informação.
