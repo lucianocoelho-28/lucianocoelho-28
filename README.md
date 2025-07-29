@@ -31,7 +31,7 @@
 
 ## Abstract
 
-- 💻  | Analista de Sistemas na **CWI Software**.
+- 💻  | Analista de Sistemas na **Scaled Service**.
 - 👨‍💻  | MBA em Digital Manager & Metaverso.
 - 👨‍💻  | Pós-Graduação em Gestão de Tenologia da Informação.
 - :video_game:  | Tecnólogo em Desenvolvimento de Jogos Digitais.
