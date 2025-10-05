@@ -112,9 +112,10 @@
 
  ## :detective: Total
 
-<div align="center">
-  <img align="center" src="https://profile-counter.glitch.me/lucianocoelho-28/count.svg" />
-</div>
+  <div align="center">
+  ### 👀 Visitantes do meu perfil
+  <img src="https://komarev.com/ghpvc/?username=lucianocoelho-28&color=blue&style=for-the-badge" alt="Contador de visitas" />
+  </div>
  
 ## 🏆 GitHub Profile Trophy
 
