@@ -105,9 +105,9 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=mailto:https://www.linkedin.com/in/lucianocoelho28/">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://discord.com/channels/Luciano Coelho#6655">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&link=mailto:https://discord.com/channels/Luciano Coelho#6655">    
-  </a>
+<a href="https://discord.gg/seuConviteAqui" target="_blank">
+  <img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white&labelColor=7289DA&logoWidth=20" alt="Discord">
+</a>
 </div>
 
  ## :detective: Total
