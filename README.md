@@ -113,7 +113,8 @@
  ## :detective: Total
 
   <div align="center">
-  ### 👀 Visitantes do meu perfil
+  👀 Visitantes do meu perfil
+    </br>
   <img src="https://komarev.com/ghpvc/?username=lucianocoelho-28&color=blue&style=for-the-badge" alt="Contador de visitas" />
   </div>
  
